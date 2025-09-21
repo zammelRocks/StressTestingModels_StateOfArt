@@ -1,2 +1,2 @@
-# StressTestingModels_StateOfArt
+# Stress-Testing-Models-StateOfTheArt
 Fundamental Research Implementation SetUp
