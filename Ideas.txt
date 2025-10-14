@@ -1,0 +1,6 @@
+
+Complementary Tests : 
+
+Mann Whitney U test and Cohen D : Measuring dignificace of statistical difference between the distributions given a metric
+Logistic Regression and Feature importance : How much the metric contributes to predicting correctness.
+
